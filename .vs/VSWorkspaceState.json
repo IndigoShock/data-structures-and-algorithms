@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\Challenges",
-    "\\Data Structures"
+    "\\Challenges\\BinarySearch\\BinarySearch",
+    "\\Challenges\\ReverseArray"
   ],
   "SelectedNode": "\\Challenges",
   "PreviewInSolutionExplorer": false
