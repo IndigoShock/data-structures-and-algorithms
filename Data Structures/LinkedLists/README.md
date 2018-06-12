@@ -1,7 +1,7 @@
 # Linked Lists
 
 1. Visuals of what it looks like
-![Image](asset\LinkListVisual.jpg)
+![Image](LinkedLists/asset/LinkListVisual.jpg)
 
 2. How you implemented it 
 Head starts at beginning. Current is the current value, which starts at the Head. The Next references the node after. We have demonstrated the List to be in a heap and linked together by value and reference values. The last node will have a reference value of null. 
