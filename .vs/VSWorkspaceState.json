@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Challenges",
-    "\\Challenges\\BinarySearch\\BinarySearch",
-    "\\Challenges\\ReverseArray"
+    "\\Challenges\\AdjacentProduct",
+    "\\Data Structures",
+    "\\Data Structures\\LinkedLists",
+    "\\Data Structures\\LinkedLists\\LinkedLists",
+    "\\Data Structures\\LinkedLists\\XUnitTestProject1"
   ],
-  "SelectedNode": "\\Challenges",
+  "SelectedNode": "\\Data Structures\\LinkedLists\\XUnitTestProject1\\UnitTest1.cs",
   "PreviewInSolutionExplorer": false
 }
