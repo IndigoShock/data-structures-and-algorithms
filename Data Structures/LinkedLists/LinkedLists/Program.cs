@@ -2,18 +2,19 @@
 
 namespace LinkedLists
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
             TestLL();
+            kthElement();
         }
 
         /// <summary>
         /// This tests if new nodes will be added
         /// </summary>
-        static void TestLL()
+        public static void TestLL()
         {
             LinkList ll = new LinkList(new Node(10));
 
@@ -28,6 +29,19 @@ namespace LinkedLists
             Node found = ll.Find(10);
 
             Console.WriteLine(found.Value);
+        }
+
+         public static void kthElement()
+        {
+            LinkList ll = new LinkList(new Node(1));
+            ll.Add(new Node(3));
+            ll.Add(new Node(8));
+            ll.Add(new Node(2));
+
+            ll.Print();
+
+            Node kEth = ll.KthElementFromEnd(2);
+            Console.WriteLine($"The K element is {kEth.Value}.");
         }
     }
 }
