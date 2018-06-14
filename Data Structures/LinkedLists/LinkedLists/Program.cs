@@ -9,6 +9,7 @@ namespace LinkedLists
             Console.WriteLine("Hello World!");
             TestLL();
             kthElement();
+            Merge();
         }
 
         /// <summary>
@@ -42,6 +43,11 @@ namespace LinkedLists
 
             Node kEth = ll.KthElementFromEnd(2);
             Console.WriteLine($"The K element is {kEth.Value}.");
+        }
+
+        public static void Merge() 
+        {
+
         }
     }
 }

@@ -9,3 +9,5 @@
 
 ## Data Structures
 1. [LinkedLists](/Data Structures/LinkedLists)
+1a. kthElement
+1b. Merging Linked lists.

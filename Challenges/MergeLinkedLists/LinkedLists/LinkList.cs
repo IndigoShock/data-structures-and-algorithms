@@ -179,25 +179,5 @@ namespace LinkedLists
             return Current;
         }
 
-        public Node MergeList(LinkList ll1, LinkList ll2) 
-        {
-            ll1.Current = ll1.Head;
-            ll2.Current = lls.Head;
-
-            Node runner1 = ll1.Head;
-            Node runner2 = ll2.Head;
-
-            runner1 = ll1.Current.Next;
-            runner2 = ll2.Current.Next;
-
-            while(runner1.Next != null && runner2.Next != null) 
-            {
-            ll1.Current.Next = ll2.Current;
-            ll2.Current.Next = runner1;
-            ll1.Current = runner1;
-            ll2.Current = runner2;
-            }
-            ll1.Current.Next = ll2.Current;
-        }
     }
 }
