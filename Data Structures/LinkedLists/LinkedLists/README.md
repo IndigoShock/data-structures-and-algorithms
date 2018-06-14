@@ -6,7 +6,7 @@ Return the node that is k from the end of the linked list.
 The challenge is to iterate through the linked list twice. The first while loop is to know how long the list is. Subtracting how long the loop is by what value k is. Then we'll find k.
 
 ## Solution
-![Image](LinkedLists\asset\KthElement.jpg)
+![Image](LinkedLists/asset/KthElement.jpg)
 
 
 
@@ -17,4 +17,4 @@ Write a method to merge two linked List classes.
 The challenge is to have both linked lists merge starting from the head. The head of the first list will move to the second list's head. We approached it with two runners as reference nodes. The runner will keep moving to the next pair for the Current node to follow until the runner reaches the end of the list, indicating the Current node to stop.
 
 ## Solution
-![Image](MergedLinkedLists\asset\MergeLinkedLists.jpg)
+![Image](LinkedLists/asset/MergeLinkedLists.jpg)
