@@ -2,16 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Challenges",
+    "\\Challenges\\AdjacentProduct",
+    "\\Challenges\\BinarySearch",
     "\\Challenges\\BinarySearch\\BinarySearch",
+    "\\Challenges\\ReverseArray",
     "\\Data Structures",
     "\\Data Structures\\LinkedLists",
     "\\Data Structures\\LinkedLists\\LinkedLists",
-    "\\Data Structures\\LinkedLists\\XUnitTestProject1",
-    "\\Data Structures\\Stack and Queue",
-    "\\Data Structures\\Stack and Queue\\Stack and Queue",
-    "\\Data Structures\\StackAndQueue",
-    "\\Data Structures\\StackAndQueue\\StackAndQueue"
+    "\\Data Structures\\LinkedLists\\XUnitTestProject1"
   ],
-  "SelectedNode": "\\Data Structures\\LinkedLists\\XUnitTestProject1\\UnitTest1.cs",
+  "SelectedNode": "\\Challenges",
   "PreviewInSolutionExplorer": false
 }
