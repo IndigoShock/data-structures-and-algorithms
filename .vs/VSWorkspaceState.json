@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Challenges",
-    "\\Challenges\\AdjacentProduct",
-    "\\Challenges\\BinarySearch",
-    "\\Challenges\\BinarySearch\\BinarySearch",
-    "\\Challenges\\ReverseArray",
-    "\\Data Structures",
-    "\\Data Structures\\LinkedLists",
-    "\\Data Structures\\LinkedLists\\LinkedLists",
-    "\\Data Structures\\LinkedLists\\XUnitTestProject1"
+    "\\Challenges\\Binary_Search",
+    "\\Challenges\\Binary_Search\\Binary_Search",
+    "\\Challenges\\FIFOAnimalShelter",
+    "\\Challenges\\FIFOAnimalShelter\\FIFOAnimalShelter",
+    "\\Challenges\\KthElement",
+    "\\Challenges\\KthElement\\KthElement",
+    "\\Challenges\\MergeLinkedLists",
+    "\\Challenges\\MergeLinkedLists\\MergeLinkedLists"
   ],
-  "SelectedNode": "\\Challenges",
+  "SelectedNode": "\\Challenges\\Binary_Search",
   "PreviewInSolutionExplorer": false
 }
