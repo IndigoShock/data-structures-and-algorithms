@@ -13,5 +13,5 @@
 8. [MultiBracket](/Challenges/MultiBracket_Validation)
 
 ## Data Structures
-1. [Linked Lists](/Data Structures/LinkedLists)
-2. [Stacks And Queues](/Data Structures/StackAndQueue)
+1. [Linked Lists](/DataStructures/LinkedLists)
+2. [Stacks And Queues](/DataStructures/StackAndQueue)
