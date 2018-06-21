@@ -1,16 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
     "\\Challenges",
-    "\\Challenges\\Binary_Search",
-    "\\Challenges\\Binary_Search\\Binary_Search",
-    "\\Challenges\\FIFOAnimalShelter",
-    "\\Challenges\\FIFOAnimalShelter\\FIFOAnimalShelter",
-    "\\Challenges\\KthElement",
-    "\\Challenges\\KthElement\\KthElement",
-    "\\Challenges\\MergeLinkedLists",
-    "\\Challenges\\MergeLinkedLists\\MergeLinkedLists"
+    "\\Challenges\\FIFOAnimalShelter"
   ],
-  "SelectedNode": "\\Challenges\\Binary_Search",
+  "SelectedNode": "\\Challenges\\FIFOAnimalShelter\\README.md",
   "PreviewInSolutionExplorer": false
 }
