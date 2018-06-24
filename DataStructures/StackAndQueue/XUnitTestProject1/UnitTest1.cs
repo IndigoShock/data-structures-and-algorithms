@@ -10,7 +10,7 @@ namespace XUnitTestProject1
 
         //Pushing a node onto your stack
         [Fact]
-        public void PushingNode()
+        public static void PushingNode()
         {
             //Arrange
             StackAndQueue.Stack stack = new StackAndQueue.Stack(new Node(1));
@@ -30,7 +30,7 @@ namespace XUnitTestProject1
 
         //Popping a node off your stack
         [Fact]
-        public void PoppingNode()
+        public static void PoppingNode()
         {
             //Arrange
             StackAndQueue.Stack stack = new StackAndQueue.Stack(new Node(1));
@@ -49,7 +49,7 @@ namespace XUnitTestProject1
 
         //Peeking at the top node of your stack
         [Fact]
-        public void PeekAtStackNode()
+        public static void PeekAtStackNode()
         {
             //Arrange
             StackAndQueue.Stack stack = new StackAndQueue.Stack(new Node(1));
@@ -68,7 +68,7 @@ namespace XUnitTestProject1
         
         //Enqueue a node into your queue
         [Fact]
-        public void EnqueueNode()
+        public static void EnqueueNode()
         {
             //Arrange
             StackAndQueue.Queue queue = new StackAndQueue.Queue(new Node(1));
@@ -88,7 +88,7 @@ namespace XUnitTestProject1
 
         //Dequeue a node off of your queue
         [Fact]
-        public void DequeueNode()
+        public static void DequeueNode()
         {
             //Arrange
             StackAndQueue.Queue queue = new StackAndQueue.Queue(new Node(1));
@@ -108,7 +108,7 @@ namespace XUnitTestProject1
 
         //Peek at the front of your queue.
         [Fact]
-        public void PeekAtQueueNode()
+        public static void PeekAtQueueNode()
         {
             //Arrange
             StackAndQueue.Queue queue = new StackAndQueue.Queue(new Node(1));

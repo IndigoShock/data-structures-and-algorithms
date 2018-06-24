@@ -6,12 +6,13 @@ namespace MultiBracket_Validation
     {
         static void Main(string[] args)
         {
-            MultiBracketValidation();
+            string word = "string";
+            MultiBracketValidation(word);
         }
 
-        public bool MultiBracketValidation(string input)
+        public static bool MultiBracketValidation(string input)
         {
-
+            return true;
         }
     }
 }

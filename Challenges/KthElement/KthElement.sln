@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KthElement", "KthElement\KthElement.csproj", "{791FE353-AC68-4288-8DAF-3607D20AB101}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KthElement", "KthElement\KthElement.csproj", "{791FE353-AC68-4288-8DAF-3607D20AB101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{ECE43BEE-2896-48B7-AFD3-1AE41BC99E1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{791FE353-AC68-4288-8DAF-3607D20AB101}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{791FE353-AC68-4288-8DAF-3607D20AB101}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{791FE353-AC68-4288-8DAF-3607D20AB101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE43BEE-2896-48B7-AFD3-1AE41BC99E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE43BEE-2896-48B7-AFD3-1AE41BC99E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE43BEE-2896-48B7-AFD3-1AE41BC99E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE43BEE-2896-48B7-AFD3-1AE41BC99E1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

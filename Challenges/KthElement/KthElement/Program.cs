@@ -2,17 +2,26 @@
 
 namespace KthElement
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            KthElement();
+            kthElement();
         }
 
-        public static void KthElement()
+        public static void kthElement()
+
         {
+            LinkList ll = new LinkList(new Node(1));
+            ll.Add(new Node(3));
+            ll.Add(new Node(8));
+            ll.Add(new Node(2));
 
+            ll.Print();
 
+            Node kEth = ll.KthElementFromEnd(2);
+
+            Console.WriteLine($"The K element is {kEth.Value}.");
         }
     }
 }
