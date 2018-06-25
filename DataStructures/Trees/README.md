@@ -1,8 +1,8 @@
 ## Trees ##
 
 1. Visuals of what it looks like
-![TreeImage](asset/BinaryTrees.jpg)
-![TreeSearchImage](asset/BinarySearchTrees.jpg)
+![TreeImage](assets/BinaryTrees.jpg)
+![TreeSearchImage](assets/BinarySearchTrees.jpg)
 
 2. How you implemented it 
 For Binary Tree, the root node sit on top. The functionality of it is to traverse through and determine whether the value of the root element is larger or greater than the new node element.
