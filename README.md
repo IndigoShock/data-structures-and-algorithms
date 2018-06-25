@@ -15,3 +15,4 @@
 ## Data Structures
 1. [Linked Lists](/DataStructures/LinkedLists)
 2. [Stacks And Queues](/DataStructures/StackAndQueue)
+3. [Trees](/DataStructures/Trees)
