@@ -1,7 +1,7 @@
 ## Trees ##
 
 1. Visuals of what it looks like
-![TreeImage](assets\BinaryTrees.jpg)
+![TreeImage](assets/BinaryTrees.jpg)
 ![TreeSearchImage](assets\BinarySearchTrees.jpg)
 
 2. How you implemented it 
