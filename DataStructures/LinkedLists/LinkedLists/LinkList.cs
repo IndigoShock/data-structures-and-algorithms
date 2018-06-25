@@ -149,36 +149,6 @@ namespace LinkedLists
             Current.Next = newNode;
         }
 
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="k"></param>
-        /// <returns></returns>
-        public Node KthElementFromEnd(int k)
-        {
-            int counter = 0;
-            Current = Head;
-            while (Current.Next != null)
-            {
-                counter++;
-                Current = Current.Next;
-            }
-
-            if (k > counter)
-            {
-                return null;
-            }
-
-            int counter2 = 0;
-            Current = Head;
-            while (counter2 < (counter - k))
-            {
-                Current = Current.Next;
-                counter2++;
-            }
-            return Current;
-        }
-
         public Node MergeList(LinkList ll1, LinkList ll2) 
         {
             ll1.Current = ll1.Head;
