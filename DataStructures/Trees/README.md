@@ -15,4 +15,6 @@ For Binary Search Trees, the root node still sits on top. The functionality is t
 Acknowledgements
 Instructor - Amanda Iverson
 TA's - Philip Werner, Erik Plyushko
+Classmates - https://github.com/jcqnly, Jesse Atay and Earl Jay Caoile
+
 Real world examples from: https://stackoverflow.com/questions/2130416/what-are-the-applications-of-binary-trees

@@ -80,7 +80,7 @@ namespace Trees
             while (breadth.TryPeek(out root))
             {
                 Node front = breadth.Dequeue();
-                if (front.LeftChild.Value == value || front.RightChild.Value == value)
+                if (front.Value == value)
                 {
                     Console.WriteLine($"Found Node: {value}");
                     return true;
