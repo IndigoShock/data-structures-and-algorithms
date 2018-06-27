@@ -3,8 +3,10 @@
     "",
     "\\assets",
     "\\Challenges",
-    "\\DataStructures"
+    "\\DataStructures",
+    "\\DataStructures\\LinkedLists",
+    "\\DataStructures\\StackAndQueue"
   ],
-  "SelectedNode": "\\DataStructures\\LinkedLists",
+  "SelectedNode": "\\DataStructures\\StackAndQueue\\README.md",
   "PreviewInSolutionExplorer": false
 }
