@@ -3,10 +3,9 @@
     "",
     "\\assets",
     "\\Challenges",
-    "\\DataStructures",
-    "\\DataStructures\\LinkedLists",
-    "\\DataStructures\\StackAndQueue"
+    "\\Challenges\\FizzBuzzTree",
+    "\\DataStructures"
   ],
-  "SelectedNode": "\\DataStructures\\StackAndQueue\\README.md",
+  "SelectedNode": "\\DataStructures\\Trees",
   "PreviewInSolutionExplorer": false
 }
