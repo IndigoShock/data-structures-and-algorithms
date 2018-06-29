@@ -10,6 +10,7 @@ namespace Trees
             TreeSearchTesting();
         }
 
+        //this method is instantiating a binary tree with the values down below. three of the traversal methods of inorder, preorder and postorder are being tested here
         public static void TreeTesting()
         {
             BinaryTree treeFitty = new BinaryTree();
@@ -35,7 +36,7 @@ namespace Trees
             treeFitty.PostOrder(node1);
         }
 
-        //BinarySearchTree
+        //BinarySearchTree. this method is testing by instantiating a binary search tree. and connecting each of the nodes with each other. and testing out the add function with unit testing.
         public static void TreeSearchTesting()
         {
             BinarySearchTree treeFitty = new BinarySearchTree();
