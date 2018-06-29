@@ -3,9 +3,14 @@
     "",
     "\\assets",
     "\\Challenges",
+    "\\Challenges\\AdjacentProduct",
+    "\\Challenges\\FindMaximumValueBinaryTree",
+    "\\Challenges\\FindMaximumValueBinaryTree\\FindMaximumValueBinaryTree",
     "\\Challenges\\FizzBuzzTree",
-    "\\DataStructures"
+    "\\DataStructures",
+    "\\DataStructures\\Trees",
+    "\\DataStructures\\Trees\\Trees"
   ],
-  "SelectedNode": "\\DataStructures\\Trees",
+  "SelectedNode": "\\Challenges\\FizzBuzzTree\\README.md",
   "PreviewInSolutionExplorer": false
 }
