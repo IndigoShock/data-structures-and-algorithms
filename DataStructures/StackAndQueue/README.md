@@ -14,6 +14,6 @@ For queues, the nodes sit in a line. The functionality are two methods: queueing
 Acknowledgements
 Instructor - Amanda Iverson
 TA's - Philip Werner, Erik Plyushko
-Classmates - Jimmy Chang for helping with unit testing. Jackie Ly for the whiteboard image.
+Classmates - Jimmy Chang for helping with unit testing. Jackie for the whiteboard image.
 1* = https://en.wikibooks.org/wiki/Data_Structures/Stacks_and_Queues
 2* = https://www.sanfoundry.com/c-programming-examples-stacks/
