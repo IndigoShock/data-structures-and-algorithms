@@ -2,7 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\Challenges"
+    "\\Challenges",
+    "\\Challenges\\FindIslands",
+    "\\Challenges\\GetEdge"
   ],
+  "SelectedNode": "\\Challenges\\FindIslands\\README.md",
   "PreviewInSolutionExplorer": false
 }
