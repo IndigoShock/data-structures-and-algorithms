@@ -10,11 +10,11 @@ namespace XUnitTestProject1
         {
             //public int Insertion(str word)
 
-            //public Contains()
+            //public Contains(str word)
 
-            //public Collision1()
+            //public bool Collision1()
 
-            //public Collision2()
+            //public bool Collision2()
         }
     }
 }

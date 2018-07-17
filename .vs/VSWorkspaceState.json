@@ -2,10 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\Challenges",
     "\\Challenges\\FindIslands",
-    "\\Challenges\\GetEdge"
+    "\\Challenges\\GetEdge",
+    "\\DataStructures",
+    "\\DataStructures\\Hashtables",
+    "\\DataStructures\\Hashtables\\XUnitTestProject1"
   ],
-  "SelectedNode": "\\Challenges\\FindIslands\\README.md",
+  "SelectedNode": "\\DataStructures\\Hashtables\\XUnitTestProject1\\UnitTest1.cs",
   "PreviewInSolutionExplorer": false
 }

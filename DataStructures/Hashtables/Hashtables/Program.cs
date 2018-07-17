@@ -13,14 +13,7 @@ namespace Hashtables
 
         public static void HashtableTest()
         {
-            int[] hashArray = new int[1024];
-            HashFunction hf = new HashFunction();
-            string word = "cat";
-            int asciiValue = hf.WordValue(word);
-            Console.WriteLine($"The AsciiValue is {asciiValue}");
-
-            Hash hash = new Hash();
-            hash.Add(hashArray, asciiValue, word);
+            Hashtable ht = new Hashtable();
         }
     }
 }
