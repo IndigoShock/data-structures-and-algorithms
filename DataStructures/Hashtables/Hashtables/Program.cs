@@ -11,6 +11,9 @@ namespace Hashtables
             Console.ReadLine();
         }
 
+        /// <summary>
+        /// Empty hashtable
+        /// </summary>
         public static void HashtableTest()
         {
             Hashtable ht = new Hashtable();
