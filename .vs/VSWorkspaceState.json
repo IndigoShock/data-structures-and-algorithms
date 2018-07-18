@@ -8,8 +8,9 @@
     "\\Challenges\\RepeatedWord",
     "\\DataStructures",
     "\\DataStructures\\Hashtables",
-    "\\DataStructures\\Hashtables\\XUnitTestProject1"
+    "\\DataStructures\\Hashtables\\XUnitTestProject1",
+    "\\DataStructures\\LinkedLists"
   ],
-  "SelectedNode": "\\Challenges\\RepeatedWord\\README.md",
+  "SelectedNode": "\\DataStructures\\Hashtables\\README.md",
   "PreviewInSolutionExplorer": false
 }
