@@ -1,16 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\Challenges",
-    "\\Challenges\\FindIslands",
-    "\\Challenges\\GetEdge",
-    "\\Challenges\\RepeatedWord",
+    "\\Challenges\\TreeIntersection",
     "\\DataStructures",
     "\\DataStructures\\Hashtables",
     "\\DataStructures\\Hashtables\\XUnitTestProject1",
     "\\DataStructures\\LinkedLists"
   ],
-  "SelectedNode": "\\DataStructures\\Hashtables\\README.md",
+  "SelectedNode": "\\Challenges\\TreeIntersection",
   "PreviewInSolutionExplorer": false
 }
