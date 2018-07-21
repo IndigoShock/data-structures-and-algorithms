@@ -15,9 +15,13 @@
 10.[FindMaximumValueBinaryTree](/Challenges/FindMaximumValueBinaryTree)
 11.[GetEdge](/Challenges/GetEdge)
 12.[FindIslands](/Challenges/FindIslands)
+13.[RepeatedWord](/Challenges/RepeatedWord)
+14.[LeftJoin](/Challenges/LeftJoin)
+15.[TreeIntersection](/Challenges/TreeIntersection)
 
 ## Data Structures
 1. [Linked Lists](/DataStructures/LinkedLists)
 2. [Stacks And Queues](/DataStructures/StackAndQueue)
 3. [Trees](/DataStructures/Trees)
 4. [Graphs](/DataStructures/Graphs)
+5. [HashTables](/DataStructures/Hashtables)

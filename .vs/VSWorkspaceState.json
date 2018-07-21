@@ -1,13 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
     "\\Challenges",
-    "\\Challenges\\TreeIntersection",
-    "\\DataStructures",
+    "\\Challenges\\GetEdge",
+    "\\Challenges\\LeftJoin",
+    "\\Challenges\\LeftJoin\\LeftJoin",
     "\\DataStructures\\Hashtables",
     "\\DataStructures\\Hashtables\\XUnitTestProject1",
     "\\DataStructures\\LinkedLists"
   ],
-  "SelectedNode": "\\Challenges\\TreeIntersection",
+  "SelectedNode": "\\Challenges\\LeftJoin\\LeftJoin\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
