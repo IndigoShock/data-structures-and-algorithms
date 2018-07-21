@@ -9,6 +9,7 @@ namespace Graphs
         {
             Console.WriteLine("Hello!");
             GraphExample();
+            Console.ReadLine();
         }
 
         public static void GraphExample()
@@ -46,7 +47,7 @@ namespace Graphs
                 Console.WriteLine($"This is all of the nodes in this: {node.Value}");
             }
 
-            //add all these nodes into a the Node List.
+            //add all these nodes into the Node List.
             List<Node> NodeList = new List<Node>();
             NodeList.Add(node1);
             NodeList.Add(node2);
@@ -60,7 +61,6 @@ namespace Graphs
             NodeList.Add(node10);
 
             //Retrieves the neighbors of a specified node
-
             List<Node> neighbors = graphic.GetNeighbors(node1);
             Console.WriteLine($"Neighbors to {node1.Value}...");
 
@@ -81,8 +81,6 @@ namespace Graphs
             {
                 Console.WriteLine($"Breadth-First Search Results: {node.Value}");
             }
-
-            Console.ReadLine();
         }
     }
 }
