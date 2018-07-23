@@ -1,20 +1,42 @@
 using System;
 using Xunit;
+using Hashtables;
+using System.Collections;
 
 namespace XUnitTestProject1
 {
     public class UnitTest1
     {
         [Fact]
-        public void Test1()
+        public void Insertion() 
         {
-            //public int Insertion(str word)
+            //Act
+            Hashtable ht = new Hashtable();
 
-            //public Contains(str word)
+            //Arrange
 
-            //public bool Collision1()
 
-            //public bool Collision2()
+            //Assert
+
+
+        }
+
+        [Fact]
+        public void Contains()
+        {
+
+        }
+
+        [Fact]
+        public bool Collision1() 
+        {
+
+        }
+
+        [Fact]
+        public bool Collision2() 
+        {
+
         }
     }
 }
