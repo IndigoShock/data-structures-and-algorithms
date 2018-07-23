@@ -6,14 +6,14 @@ namespace Hashtables
 {
     public class Hashtable
     {
-        public Node[] Array { get; set; }
+        public Node[] HashArray { get; set; }
 
         /// <summary>
         /// instantiating empty hashtable
         /// </summary>
         public Hashtable()
         {
-            Array = new Node[1024];
+            HashArray = new Node[1024];
         }
 
         /// <summary>
@@ -25,13 +25,13 @@ namespace Hashtables
         {
             Node node = new Node(value, key);
             int index = GetHash(key);
-            if (Array[index] == null)
+            if (HashArray[index] == null)
             {
-                Array[index] = node;
+                HashArray[index] = node;
             }
             else
             {
-                node.Next = Array[index];
+                node.Next = HashArray[index];
             }
         }
 
@@ -43,7 +43,7 @@ namespace Hashtables
         public int Find(string key)
         {
             int index = GetHash(key);
-            Node current = Array[index];
+            Node current = HashArray[index];
             while (current.Next != null)
             {
                 if (current.Key == key)
@@ -68,7 +68,7 @@ namespace Hashtables
         public bool Contains(string key)
         {
             int index = GetHash(key);
-            Node current = Array[index];
+            Node current = HashArray[index];
             while (current.Next != null)
             {
                 if (current.Key == key)
