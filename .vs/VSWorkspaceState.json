@@ -3,14 +3,12 @@
     "",
     "\\assets",
     "\\Challenges",
-    "\\Challenges\\LeftJoin\\LeftJoin",
     "\\Challenges\\RepeatedWord",
     "\\DataStructures",
-    "\\DataStructures\\Graphs\\Graphs",
     "\\DataStructures\\Hashtables",
     "\\DataStructures\\Hashtables\\Hashtables",
-    "\\DataStructures\\Hashtables\\XUnitTestProject1"
+    "\\DataStructures\\Hashtables\\XUnitTestProject2"
   ],
-  "SelectedNode": "\\DataStructures\\Hashtables\\Hashtables.sln",
+  "SelectedNode": "\\DataStructures\\Hashtables\\Hashtables\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
