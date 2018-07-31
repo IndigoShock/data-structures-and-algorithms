@@ -7,8 +7,9 @@
     "\\DataStructures",
     "\\DataStructures\\Hashtables",
     "\\DataStructures\\Hashtables\\Hashtables",
-    "\\DataStructures\\Hashtables\\XUnitTestProject2"
+    "\\DataStructures\\Hashtables\\XUnitTestProject2",
+    "\\DataStructures\\Sorting_Algorithms"
   ],
-  "SelectedNode": "\\DataStructures\\Hashtables\\Hashtables\\Program.cs",
+  "SelectedNode": "\\DataStructures\\Sorting_Algorithms\\README.md",
   "PreviewInSolutionExplorer": false
 }
