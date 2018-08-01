@@ -3,13 +3,15 @@
     "",
     "\\assets",
     "\\Challenges",
+    "\\Challenges\\MergeSort",
     "\\Challenges\\RepeatedWord",
     "\\DataStructures",
     "\\DataStructures\\Hashtables",
     "\\DataStructures\\Hashtables\\Hashtables",
     "\\DataStructures\\Hashtables\\XUnitTestProject2",
-    "\\DataStructures\\Sorting_Algorithms"
+    "\\DataStructures\\Sorting_Algorithms",
+    "\\DataStructures\\Sorting_Algorithms\\Sorting_Algorithms"
   ],
-  "SelectedNode": "\\DataStructures\\Sorting_Algorithms\\README.md",
+  "SelectedNode": "\\Challenges\\MergeSort\\README.md",
   "PreviewInSolutionExplorer": false
 }
