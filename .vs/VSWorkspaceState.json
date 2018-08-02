@@ -1,17 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\Challenges",
     "\\Challenges\\MergeSort",
-    "\\Challenges\\RepeatedWord",
+    "\\Challenges\\QuickSort",
     "\\DataStructures",
     "\\DataStructures\\Hashtables",
     "\\DataStructures\\Hashtables\\Hashtables",
     "\\DataStructures\\Hashtables\\XUnitTestProject2",
-    "\\DataStructures\\Sorting_Algorithms",
-    "\\DataStructures\\Sorting_Algorithms\\Sorting_Algorithms"
+    "\\DataStructures\\Sorting_Algorithms"
   ],
-  "SelectedNode": "\\Challenges\\MergeSort\\README.md",
+  "SelectedNode": "\\Challenges\\QuickSort\\README.md",
   "PreviewInSolutionExplorer": false
 }
