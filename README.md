@@ -12,11 +12,17 @@
 7. [FIFOAnimalShelter](/Challenges/FIFOAnimalShelter)
 8. [MultiBracket](/Challenges/MultiBracket_Validation)
 9. [FizzBuzzTree](/Challenges/FizzBuzzTree)
+
 10.[FindMaximumValueBinaryTree](/Challenges/FindMaximumValueBinaryTree)
+
 11.[GetEdge](/Challenges/GetEdge)
+
 12.[FindIslands](/Challenges/FindIslands)
+
 13.[RepeatedWord](/Challenges/RepeatedWord)
+
 14.[LeftJoin](/Challenges/LeftJoin)
+
 15.[TreeIntersection](/Challenges/TreeIntersection)
 
 ## Data Structures
