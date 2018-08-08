@@ -12,7 +12,6 @@
 7. [FIFOAnimalShelter](/Challenges/FIFOAnimalShelter)
 8. [MultiBracket](/Challenges/MultiBracket_Validation)
 9. [FizzBuzzTree](/Challenges/FizzBuzzTree)
-
 10.[FindMaximumValueBinaryTree](/Challenges/FindMaximumValueBinaryTree)
 
 11.[GetEdge](/Challenges/GetEdge)
