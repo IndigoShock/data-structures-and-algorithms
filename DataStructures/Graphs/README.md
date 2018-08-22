@@ -2,7 +2,7 @@
 
 1. Visuals of what it looks like:
 ![Image](asset/GraphDrawing.jpg)
-![Image](asset/GraphImplementation.jpg)
+![Image](asset/GraphImplementation.JPG)
 
 2. How you implemented it 
 Graph is a data structure of nodes. Which can either be connected or on an 'island'. Each node could be standalone or connected to node. If they are, they have an Edge together and are Neighbors. And the node can be connected to any number of neighbors, not just one. The size can be any number as well except 0. 
